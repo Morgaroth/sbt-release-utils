@@ -10,4 +10,4 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-pgp" % "0.8.3")
 
 resolvers += Resolver.sonatypeRepo("releases")
 
-addSbtPlugin("io.github.morgaroth" % "sbt-sonatype-utils" % "0.1")
+addSbtPlugin("io.github.morgaroth" % "sbt-sonatype-utils" % "0.2")
